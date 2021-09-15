@@ -1,1 +1,2 @@
-# C22-BoilerPoint-game-Pirate-0.1
+# PRO-C22-SA-Boilerplate_code
+Boilerplate code for student  
